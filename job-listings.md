@@ -1,6 +1,8 @@
 This file contains listings for current job openings in western Mass. The positions are listed with the most recently posted at the top. At the [bottom](#template) is a template for new postings.
 
-
+- 5/22/18 MachineMetrics, Northampton, MA - **Big Data Engineer**
+- Our data pipeline is based of of AWS Kinesis. You'll be working with that, AWS Lambda, DynamoDB, S3, Athena, Redshift, etc. Most of our orchestration code is in Node.js, though we have a smattering of R, Python and spark, as well.
+- [More Info / Application Instructions](https://hire.withgoogle.com/public/jobs/machinemetricscom/view/P_AAAAAAEAAADOCcs1XncQ3r)
 - 3/21/18 The Alchemy Fund, Amherst, MA - **Computer Vision Engineer**
   - Signal processing from a noisy, weak input – e.g. noise reduction, pixel transformation. Work alongside a data scientist, who would process the output signal. Clear and immediate market applications if we can get it working. Would be perfect as project work for a CS graduate student in the field.
   - [More Info / Application Instructions](https://drive.google.com/file/d/0B3ll_mWRP1BvSmUwZzFKbS00SHJWNmV3bjlNQXRJVFA4aXc0/view?usp=sharing)
@@ -19,9 +21,6 @@ This file contains listings for current job openings in western Mass. The positi
 - 3/17/18 CyberArk, Newton, MA or REMOTE - **Software Engineer**
   - Join the Conjur team at CyberArk and work on OSS softare to help make the lives of your DevOps colleagues easier! We code in Ruby, Golang, and JS and use some of the most popular DevOps tools, like Jenkins, K8s, Ansible, Puppet, and more!
   - conjur.org, [our hiring puzzle](http://conjur-dev-puzzle-website.herokuapp.com)
-- 3/15/18 MachineMetrics, Northampton - **Senior DevOps Engineer**
-  - Being the resident AWS Security expert. Designing and building services to provision and maintain fleet of edge devices used for machine data collection. Owning and supporting AWS infrastructure and tools. Developing the tools that help developers get their job done.
-  - [More Info / Application Instructions](https://hire.withgoogle.com/public/jobs/machinemetricscom/view/P_AAAAAAEAAADNPSzm_3gyHA)
 - 3/15/18 Last Call Media, US - **Senior Web Developer**
   - Senior Developers are compensated at a salary commensurate with skill and experience, with comprehensive benefits and varied, engaging work for enterprise-level clients.
   - https://lastcallmedia.com/careers
